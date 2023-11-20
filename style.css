@@ -1,0 +1,207 @@
+:root {
+    font-size: 16px; /* Set a base font size for the root element */
+}
+
+.navbar-brand img {
+    height: 3.75rem; /* 60px converted to rem */
+    border-radius: 3.125rem; /* 50px converted to rem */
+}
+
+.header {
+    background-color: rgb(65, 63, 63);
+}
+
+.nav-item a {
+    font-size: 1rem; /* 16px converted to rem */
+    font-weight: 700;
+    color: white;
+}
+
+.nav-item {
+    margin-right: 2.5rem; /* 40px converted to rem */
+    transition: 0.5s ease-in-out all;
+}
+
+.nav-item:hover {
+    background-color: brown;
+    border-radius: 0.1875rem; /* 3px converted to rem */
+}
+
+
+
+
+
+
+
+
+
+
+
+:root {
+    font-size: 16px; /* Set a base font size for the root element */
+}
+
+.nav-item a:hover {
+    color: white;
+}
+
+.carousel-item img {
+    height: 25rem; /* 400px converted to rem */
+}
+
+.image1 img {
+    height: 18.75rem; /* 300px converted to rem */
+}
+
+.image1 {
+    width: 54%;
+}
+
+.flex1 {
+    display: flex;
+}
+
+.description1 {
+    width: 49%;
+    margin-top: 3.125rem; /* 50px converted to rem */
+    text-align: justify;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+:root {
+    font-size: 16px; /* Set a base font size for the root element */
+}
+
+.button {
+    text-decoration: none;
+    color: white;
+    font-weight: 700;
+    background-color: rgb(252, 12, 252);
+    padding: 0.9375rem 1.875rem; /* 15px converted to rem */
+    border-radius: 0.3125rem; /* 5px converted to rem */
+    transition: 0.3s all ease-in-out;
+}
+
+.button:hover {
+    background-color: brown;
+    color: white;
+}
+
+.flex2 {
+    display: flex;
+}
+
+.description2 {
+    width: 54%;
+    margin-top: 3.125rem; /* 50px converted to rem */
+    text-align: justify;
+}
+
+.description2 p {
+    width: 90%;
+}
+
+
+
+
+
+
+
+
+:root {
+    font-size: 16px; /* Set a base font size for the root element */
+}
+
+.image2 {
+    width: 30.625rem; /* 49% converted to rem */
+}
+
+.image2 img {
+    height: 18.75rem; /* 300px converted to rem */
+}
+
+.cards {
+    display: flex;
+}
+
+.card {
+    margin-left: 1.25rem; /* 20px converted to rem */
+    padding: 0.625rem; /* 10px converted to rem */
+}
+
+.card p {
+    text-align: justify;
+}
+
+.text-center h1 {
+    font-weight: 900;
+}
+
+.company img {
+    height: 4.375rem; /* 70px converted to rem */
+    border-radius: 1.25rem; /* 50px converted to rem */
+}
+
+.footer-nav {
+    background-color: rgb(65, 63, 63);
+    color: white;
+}
+
+.all-info {
+    display: flex;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+:root {
+    font-size: 16px; /* Set a base font size for the root element */
+}
+
+.company {
+    width: 25rem; /* 40% converted to rem */
+    margin-top: 1.875rem; /* 30px converted to rem */
+}
+
+.links {
+    width: 12.5rem; /* 20% converted to rem */
+    margin-left: 9.375rem; /* 150px converted to rem */
+    margin-top: 6.875rem; /* 110px converted to rem */
+}
+
+.links li {
+    list-style: none;
+}
+
+.links li a {
+    text-decoration: none;
+    color: azure;
+}
+
+.contacts {
+    width: 12.5rem; /* 20% converted to rem */
+    margin-left: 9.375rem; /* 150px converted to rem */
+    margin-top: 6.875rem; /* 110px converted to rem */
+}
